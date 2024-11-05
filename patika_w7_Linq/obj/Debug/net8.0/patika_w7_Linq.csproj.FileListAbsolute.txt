@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\bin\Debug\net8.0\patika_w7_Linq.exe
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\bin\Debug\net8.0\patika_w7_Linq.deps.json
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\bin\Debug\net8.0\patika_w7_Linq.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\bin\Debug\net8.0\patika_w7_Linq.dll
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\bin\Debug\net8.0\patika_w7_Linq.pdb
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.dll
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\refint\patika_w7_Linq.dll
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.pdb
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\patika_w7_Linq.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week7\patika_w7_Linq\patika_w7_Linq\obj\Debug\net8.0\ref\patika_w7_Linq.dll
