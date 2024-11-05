@@ -138,6 +138,7 @@ static void Main(string[] args)
     squaredNumbers2.ForEach(num => Console.WriteLine(num));
 }
 ```
+Burada .ToList() kullanarak yeni liste oluşturdum ve filtrelenen verileri ForEach methodu ile yazdırdım
 
 
 
